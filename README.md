@@ -1,6 +1,6 @@
-FINAL PROJECT
+FINAL PROJECT: Assessment and Hardening of a Vulnerable System
 
-This report provides an overview of Purple Team collaboration in attacking and defending virtual networks
+The creation of a virtual network, with Red Team, Blue Team and Purple Team exploits. Included Red Team vs Blue Team Capture The Flag competition. The impact of this exercise was to explore both sides of hacking
 
 
 
